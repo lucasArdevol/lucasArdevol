@@ -34,7 +34,7 @@ Meu objetivo de longo prazo é me tornar um especialista em desenvolvimento de j
 <a href="https://www.instagram.com/buluack/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/artist/2l0YUBPj3jgRQdwqCBBUpx?si=zy6V5m0qR0e-TZybtN7g7w" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucasruotolo@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-ardevol-1bb819247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/lucas-ardevol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <div>
