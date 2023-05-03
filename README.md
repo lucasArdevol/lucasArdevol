@@ -6,7 +6,6 @@ Olá, meu nome é Lucas Ardevol! Sou um desenvolvedor apaixonado por tecnologia 
 - Engines: Clickteam Fusion 2.5, Game Maker
 - Pixel Artist
 - Compositor
-- Sonoplasta
 
 # Projeto em andamento
 - Synth Pong: um jogo feito na Clickteam Fusion 2.5. Este jogo é uma reviravolta no jogo clássico Pong e perfeito para qualquer pessoa que adora a estética synthwave dos anos 80. Você pode desafiar seus amigos em intensas sessões de PvP ou desfrutar do jogo sozinho no modo história, bem como uma série de níveis e desafios. 
