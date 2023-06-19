@@ -2,7 +2,7 @@
 Olá, meu nome é Lucas Ardevol! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, moro em São Paulo, trabalho como game design e estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 # Habilidades
-- Linguagens: Java, Python, JavaScript, HTML, CSS
+- Linguagens: C#, Java, Python, JavaScript, HTML, CSS
 - Engines: Clickteam Fusion 2.5, Game Maker, Unity
 - Pixel Artist
 - Compositor
